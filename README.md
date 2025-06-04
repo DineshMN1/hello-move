@@ -3,7 +3,9 @@
 A simple Aptos Move project 
 
 ---
-```git clone https://github.com/DineshMN1/hello-move.git```
+```
+git clone https://github.com/DineshMN1/hello-move.git
+```
 ---
 ## Project Structure
 
